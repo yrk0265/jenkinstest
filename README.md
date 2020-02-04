@@ -1,6 +1,6 @@
 # NodeJS Crud Operation
 This project is just the crud operation in node js.
-# Database : mongo db.
+# Database : mongo db. 
 collection is employees
 one sample record 
 
